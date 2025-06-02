@@ -4,6 +4,3 @@
 [submodule "full_shop_frontend"]
 	path = full_shop_frontend
 	url = https://github.com/Nikogjj/full_shop_frontend.git
-[submodule "full_shop_frontend"]
-	path = full_shop_frontend_admin
-	url = https://github.com/Nikogjj/full_shop_frontend_admin.git
